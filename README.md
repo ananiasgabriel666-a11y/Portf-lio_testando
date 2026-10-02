@@ -1,26 +1,14 @@
 # 💻 Portfólio – Ananias Gabriel
 
-Site de portfólio pessoal desenvolvido para apresentar minha trajetória, habilidades e projetos como estudante de **Análise e Desenvolvimento de Sistemas (ADS)** no **IFSP**.
+Site de portfólio pessoal desenvolvido para testar habilidades de HTML, CSS e JavaScript.
 
-> 🔗 **Demo:** _adicione aqui o link do site (GitHub Pages, Netlify, Vercel...)_
-
----
-
-## 📸 Preview
-
-_Adicione aqui um print ou GIF do site._
-
-```md
-![Preview do portfólio](./assets/preview.png)
-```
-
----
 
 ## ✨ Sobre o projeto
 
-Este portfólio nasceu da ideia de que o lado "técnico" e o lado "criativo" não precisam ser separados. O site reúne apresentação pessoal, formação, habilidades técnicas e comportamentais, com um visual escuro e destaques em vermelho, e transições feitas com JavaScript.
+Este portfólio nasceu de uma sequência de tutoriais e vídeos aula que me mostraram que o lado "técnico" e o lado "criativo" não precisam ser separados. O site reúne apresentação pessoal, formação, habilidades técnicas e comportamentais, com um visual escuro e destaques em vermelho.
 
 ## 🧭 Seções
+Todas as seções são figurativas sendo apenas desenvolvida a "Home", que separa aresentação pessoal e outros aspectos pessoais.
 
 | Seção | Descrição |
 |-------|-----------|
@@ -78,14 +66,9 @@ Não há dependências nem build: basta abrir o HTML.
 
 Atualmente estudo **Python, Java, SQL** e os primeiros passos em **Inteligência Artificial**, e este portfólio vai crescendo junto com os meus aprendizados.
 
-## 👤 Autor
-
-**Ananias Gabriel**
-Estudante de ADS – IFSP
-
-- GitHub: [@seu-usuario](https://github.com/seu-usuario)
-- LinkedIn: _adicione seu link_
-- E-mail: _adicione seu e-mail_
+- GitHub: [@ananiasgabriel666-a11y](https://github.com/ananiasgabriel666-a11y)
+- LinkedIn: (https://www.linkedin.com/in/ananias-gabriel-8092763b4/)
+- E-mail: gananias034@gamil.com
 
 ---
 
